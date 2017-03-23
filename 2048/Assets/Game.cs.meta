@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 466db8eade0180a4897cc5d18d118680
+timeCreated: 1488023285
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TilePrototype: {fileID: 1995128800537278, guid: 7aec999c198dc91478122264575c3d69,
+      type: 2}
+  - gameTransform: {instanceID: 0}
+  - scoreTxt: {instanceID: 0}
+  - hiScoreTxt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
